@@ -1,0 +1,324 @@
+{
+  "stuff_list": [
+    {
+      "brand": "Джей ви",
+      "crucifixion": null,
+      "dimensions": [
+        {
+          "size": null,
+          "weight": 11.34,
+          "length": null,
+          "height": null,
+          "currency": "rub",
+          "first_price": null,
+          "last_price": 6950.0,
+          "width": null
+        }
+      ],
+      "insertion_group_list": [],
+      "insertion_count": 0,
+      "is_child": false,
+      "lock": [],
+      "metal": [
+        {
+          "metal": "Серебро",
+          "sample": 925,
+          "color": "Белый"
+        }
+      ],
+      "metal_count": 1,
+      "name": "Подвеска из серебра (арт. 734800)",
+      "product_type": "Подвески",
+      "provider": "NeboStuffSpider",
+      "provider_images": [
+        "http://nebo.ru/ready/52P-0120_WG.jpg"
+      ],
+      "provider_name": "nebo",
+      "provider_url": "https://nebo.ru/product/734800",
+      "religion": null,
+      "sex": null,
+      "soroka_images": [
+        "https://storage.googleapis.com/provider_images/cc95ca8d6b3bef674d8ab58bb8c20bc1.jpg"
+      ],
+      "style": [
+        "Геометрия"
+      ],
+      "vendor_code": "734800",
+      "weaving": null
+    },
+    {
+      "brand": "Эстет",
+      "crucifixion": null,
+      "dimensions": [
+        {
+          "size": null,
+          "weight": 2.09,
+          "length": null,
+          "height": null,
+          "currency": "rub",
+          "first_price": null,
+          "last_price": 9500.0,
+          "width": null
+        }
+      ],
+      "insertion_group_list": [
+        {
+          "carat": 0.47,
+          "color": null,
+          "count": 52,
+          "cut": "круглая",
+          "cut_count": null,
+          "form": null,
+          "insertion": "фианит",
+          "purity": null,
+          "type": null
+        },
+        {
+          "carat": 1.3,
+          "color": null,
+          "count": 1,
+          "cut": "груша",
+          "cut_count": null,
+          "form": null,
+          "insertion": "топаз",
+          "purity": null,
+          "type": null
+        }
+      ],
+      "insertion_count": 2,
+      "is_child": false,
+      "lock": [],
+      "metal": [
+        {
+          "metal": "Золото",
+          "sample": 585,
+          "color": "Красный"
+        }
+      ],
+      "metal_count": 1,
+      "name": "Кольцо с топазом и фианитами из красного золота (арт. 860057)",
+      "product_type": "Кольца",
+      "provider": "NeboStuffSpider",
+      "provider_images": [
+        "http://nebo.ru/ready/01K3110951-1_topaz_fianit.jpg"
+      ],
+      "provider_name": "nebo",
+      "provider_url": "https://nebo.ru/product/860057",
+      "religion": null,
+      "sex": null,
+      "soroka_images": [
+        "https://storage.googleapis.com/provider_images/41481e858b24aceaec5760d7a957429d.jpg"
+      ],
+      "style": null,
+      "vendor_code": "860057",
+      "weaving": null
+    },
+    {
+      "brand": "",
+      "crucifixion": null,
+      "dimensions": [
+        {
+          "size": 17.5,
+          "weight": 2.1,
+          "length": null,
+          "height": null,
+          "currency": "rub",
+          "first_price": null,
+          "last_price": 11900.0,
+          "width": null
+        }
+      ],
+      "insertion_group_list": [
+        {
+          "carat": null,
+          "color": null,
+          "count": 14,
+          "cut": null,
+          "cut_count": null,
+          "form": "",
+          "insertion": "Фианит Б/цв Кр  0.045 гр.",
+          "purity": null,
+          "type": null
+        },
+        {
+          "carat": 0.999,
+          "color": null,
+          "count": 1,
+          "cut": null,
+          "cut_count": null,
+          "form": "",
+          "insertion": "Топаз Голубой Бриолет Кр  ",
+          "purity": null,
+          "type": null
+        }
+      ],
+      "insertion_count": 1,
+      "is_child": false,
+      "lock": null,
+      "metal": [
+        {
+          "metal": "Золото",
+          "sample": 585,
+          "color": "Белый"
+        }
+      ],
+      "metal_count": 1,
+      "name": "Кольцо из белого золота 585 пробы с топазом, фианитом",
+      "product_type": "Кольца",
+      "provider": "AdamasStuffSpider",
+      "provider_images": [
+        "https://a1-a.akamaihd.net/img/goods/1000x1000/1417207-A51D-660_2.jpg",
+        "https://a1-a.akamaihd.net/img/goods/1000x1000/1417207-A51D-660_1.jpg"
+      ],
+      "provider_name": "adamas",
+      "provider_url": "https://www.adamas.ru/catalog/kolca/1417207-A51D-660/",
+      "religion": null,
+      "sex": null,
+      "soroka_images": [
+        "https://storage.googleapis.com/provider_images/832c3020dc4dee8cc8b8c01130147eba.jpg",
+        "https://storage.googleapis.com/provider_images/20f7c3edaaf6ac73026b82aa4ebe7fae.jpg"
+      ],
+      "style": null,
+      "vendor_code": "1417207-А51Д-660",
+      "weaving": null
+    },
+    {
+      "brand": "None",
+      "crucifixion": null,
+      "dimensions": [
+        {
+          "size": 17.0,
+          "weight": 2.1,
+          "length": null,
+          "height": null,
+          "currency": "rub",
+          "first_price": null,
+          "last_price": 11900.0,
+          "width": null
+        }
+      ],
+      "insertion_group_list": [
+        {
+          "carat": null,
+          "color": null,
+          "count": 14,
+          "cut": null,
+          "cut_count": null,
+          "form": null,
+          "insertion": "Фианит Б/цв Кр  0.045 гр.",
+          "purity": null,
+          "type": null
+        },
+        {
+          "carat": 0.999,
+          "color": null,
+          "count": 1,
+          "cut": null,
+          "cut_count": null,
+          "form": null,
+          "insertion": "Топаз Голубой Бриолет Кр  ",
+          "purity": null,
+          "type": null
+        }
+      ],
+      "insertion_count": 1,
+      "is_child": false,
+      "lock": null,
+      "metal": [
+        {
+          "metal": "Золото",
+          "sample": 585,
+          "color": "Белый"
+        }
+      ],
+      "metal_count": 1,
+      "name": "Кольцо из белого золота 585 пробы с топазом, фианитом",
+      "product_type": "Кольца",
+      "provider": "AdamasStuffSpider",
+      "provider_images": [
+        "https://a1-a.akamaihd.net/img/goods/1000x1000/1417207-A51D-660_2.jpg",
+        "https://a1-a.akamaihd.net/img/goods/1000x1000/1417207-A51D-660_1.jpg"
+      ],
+      "provider_name": "adamas",
+      "provider_url": "https://www.adamas.ru/catalog/kolca/1417207-A51D-660/",
+      "religion": null,
+      "sex": null,
+      "soroka_images": [
+        "https://storage.googleapis.com/provider_images/832c3020dc4dee8cc8b8c01130147eba.jpg",
+        "https://storage.googleapis.com/provider_images/20f7c3edaaf6ac73026b82aa4ebe7fae.jpg"
+      ],
+      "style": null,
+      "vendor_code": "1417207-А51Д-660",
+      "weaving": null
+    },
+    {
+      "brand": null,
+      "crucifixion": null,
+      "dimensions": [
+        {
+          "size": 17.0,
+          "weight": 2.1,
+          "length": null,
+          "height": null,
+          "currency": "rub",
+          "first_price": null,
+          "last_price": 11900.0,
+          "width": null
+        }
+      ],
+      "insertion_group_list": [
+        {
+          "carat": null,
+          "color": null,
+          "count": 14,
+          "cut": null,
+          "cut_count": null,
+          "form": null,
+          "insertion": "Фианит Б/цв Кр  0.045 гр.",
+          "purity": null,
+          "type": null
+        },
+        {
+          "carat": 0.999,
+          "color": null,
+          "count": 1,
+          "cut": null,
+          "cut_count": null,
+          "form": null,
+          "insertion": "Топаз Голубой Бриолет Кр  ",
+          "purity": null,
+          "type": null
+        }
+      ],
+      "insertion_count": 1,
+      "is_child": false,
+      "lock": null,
+      "metal": [
+        {
+          "metal": "Золото",
+          "sample": 583,
+          "color": "Белый"
+        }
+      ],
+      "metal_count": 1,
+      "name": "Кольцо из белого золота 585 пробы с топазом, фианитом",
+      "product_type": "Кольца",
+      "provider": "AdamasStuffSpider",
+      "provider_images": [
+        "https://a1-a.akamaihd.net/img/goods/1000x1000/1417207-A51D-660_2.jpg",
+        "https://a1-a.akamaihd.net/img/goods/1000x1000/1417207-A51D-660_1.jpg"
+      ],
+      "provider_name": "adamas",
+      "provider_url": "https://www.adamas.ru/catalog/kolca/1417207-A51D-660/",
+      "religion": null,
+      "sex": null,
+      "soroka_images": [
+        "https://storage.googleapis.com/provider_images/832c3020dc4dee8cc8b8c01130147eba.jpg",
+        "https://storage.googleapis.com/provider_images/20f7c3edaaf6ac73026b82aa4ebe7fae.jpg"
+      ],
+      "style": null,
+      "vendor_code": "1417207-А51Д-660",
+      "weaving": null
+    }
+  ]
+}
